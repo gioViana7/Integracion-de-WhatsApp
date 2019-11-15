@@ -1,0 +1,24 @@
+{
+    "eslint.validate": [
+        {
+          "language": "vue",
+          "autoFix": false
+        },
+        {
+          "language": "javascript",
+          "autoFix": false
+        },
+        {
+          "language": "javascriptreact",
+          "autoFix": false
+        }
+    ],
+    "eslint.autoFixOnSave": false,
+    "editor.formatOnSave": false,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "vetur.validation.template": false,
+    "css.validate": false, // Disable css built-in lint
+    "scss.validate": false, // Disable css built-in lint
+    "stylelint.enable": true, // Enable sytlelint
+}
